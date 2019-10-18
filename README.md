@@ -1,0 +1,2 @@
+# oam_kanagawa20191014sagamihara00
+2019年台風19号 相模原 DRONEBIRD 空撮データまとめ
