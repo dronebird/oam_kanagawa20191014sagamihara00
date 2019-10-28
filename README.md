@@ -6,7 +6,7 @@
 
 ## 各種URL
 * OpenAerialMap http://bit.ly/2Mmt58a
-* ひなたGISへの展開例 http://bit.ly/2nZjriC
+* ひなたGISへの展開例 http://bit.ly/2WkLUfs
 * GitHub https://github.com/dronebird/oam_kanagawa20191014sagamihara00
 * Google Drive http://bit.ly/32pGWQX
 * Facebook https://www.facebook.com/dronebirdproject/
